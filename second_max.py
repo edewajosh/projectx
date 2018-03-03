@@ -10,5 +10,6 @@ for i in range(1, n+1):
 print(list)
 list.sort()
 print(list)
-list.reverse()
-print(list)
+#list.reverse()
+#print(list)
+
